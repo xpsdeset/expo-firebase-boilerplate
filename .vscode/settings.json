@@ -1,0 +1,7 @@
+{
+    // The following will hide the js and map files in the editor
+    "files.exclude": {
+        "{node_modules,.expo,__tests__,.babelrc,.watchmanconfig,.vscode,package-lock.json,jsconfig.json,tsconfig.json,.*,yarn.lock}": true
+    },
+    "git.ignoreLimitWarning": true
+}
