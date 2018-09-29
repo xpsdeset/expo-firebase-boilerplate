@@ -18,7 +18,7 @@ This project can also be used if you plan to eject expo.
 
 
 
-##Features
+## Features
 
 - Firebase
 - [React(16.3)](https://5b05c94e0733d530fd1fafe0--reactjs.netlify.com/ "React(16.3)")
@@ -41,7 +41,7 @@ Copy [config.sample.js](config.sample.js "config.sample.js") as config.js and ed
 
 *Note: latest version of expo has dropped exp command in favor of expo. *
 
-##Application Structure
+## Application Structure
 
 1. expo firebase boilerplate comes with default application structure when you do `expo init`
 1. We added components directory where you can add any shared components. We even added an alias to this directory as  `@components` which can be used for imports.
@@ -62,7 +62,7 @@ Copy [config.sample.js](config.sample.js "config.sample.js") as config.js and ed
 Expo projects by default do not include linting, this project supports linting, also supports git hook before commit. 
 You can lint your projects `npm run lint:fix` before commiting your code.
 
-##Testing
+## Testing
 Todo
 
 ##FAQ
