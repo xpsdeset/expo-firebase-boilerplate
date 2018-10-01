@@ -65,7 +65,7 @@ You can lint your projects `npm run lint:fix` before commiting your code.
 ## Testing
 Todo
 
-##FAQ
+## FAQ
 Can I use this with firestore.
 Sure you can, refer [react-redux-firebase](http://react-redux-firebase.com/docs/firestore.html "react-redux-firebase")  and make changes to [store/index.js](store/index.js "store/index.js")
 
